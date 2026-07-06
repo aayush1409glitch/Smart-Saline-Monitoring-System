@@ -1,2 +1,2 @@
 # Smart-Saline-Monitoring-System
-Smart Saline Monitor | ESP8266 + HX711 load cell tracks 100ml IV bag in real time. Triggers servo clamp + buzzer below 30% &amp; streams live data to Flask dashboard via WiFi. Browser notifications, ±2% accuracy, auto-reconnect. Under ₹800 
+Built an IoT-based Smart Saline Monitoring System using ESP8266 and ultrasonic sensing to track IV fluid levels in real time. Sensor data streams to a Flask server and renders on a live web dashboard via AJAX/WebSockets, triggering instant alerts when levels turn critical — enabling remote, hands-free monitoring for healthcare staff 
